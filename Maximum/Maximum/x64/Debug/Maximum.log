@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\ИУ1-1\Maximum\Maximum\Source.cpp(12,28): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\ИУ1-1\Maximum\Maximum\Source.cpp(12,12): warning C4309: инициализация: усечение константного значения
+  Maximum.vcxproj -> C:\ИУ1-1\Maximum\x64\Debug\Maximum.exe
